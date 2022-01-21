@@ -1,0 +1,330 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    color:#111238;
+    line-height: 1.6;
+    margin: 0;
+    background-color: #F2F3F6;
+    width: 1440px;
+    height: 782px;
+    left: -2px;
+}
+
+.navbar{
+    width: 1170px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-top: 60px;
+    padding-left:148px ;
+}
+
+.group6{
+    width: 241px;
+    height: 50px;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.batt{
+    border-style: solid;
+    border-color:#1A75E8;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    color: white;
+    background-color:#1A75E8;
+    margin-left: 20px;
+}
+
+.voyti{
+    font-size: 16px;
+}
+
+.menu{
+    width: 79px;
+    height: 20px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.glavnoe{
+    color:#1A75E8;
+    margin-right: 20px;
+}
+
+.vakansii{
+    margin-right: 20px;
+}
+
+.logo{
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.logotext1{
+    margin-left: 20px;
+}
+
+.logotext2{
+    color:#1A75E8;
+    margin-left: 20px;
+}
+
+
+.hero{
+    width: 1132px;
+    height: 557px;
+    margin-left: 178px;
+    margin-right: auto;
+    margin-top: 78px;
+    display: flex;
+    flex-direction: row;
+}
+
+.harotext{
+    width: 473px;
+    height: 349px;
+    margin-left: 154px;
+    padding-top:42px ;
+    margin-right: auto;
+    margin-bottom: 171.5px;
+    margin-top: 42px;
+}
+
+.zagolovok{
+    width: 460px;
+    height: 106px;
+    font-size: 44px;
+    margin-bottom: 28px;
+    margin-left: 2px;
+    
+
+
+}
+
+.text{
+    width: 460px;
+    height: 75px;
+    font-size: 18px;
+    margin-left: 2px;
+    margin-top:px;
+}
+
+.inputgroup{
+    width: 447spx;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 2px;
+    border-style: solid;
+    border-color: white;
+    box-shadow: 0 0 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nachnite{
+    margin-left: 2px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nachnitep{
+    color: #BCBCBC;
+    font-size: 16px;
+}
+
+.but{
+    border-style: solid;
+    border-color: #1A75E8;
+    background-color: #1A75E8;
+    width: 211px;
+    height: 49px;
+    margin-top: 10px;
+    margin-bottom: auto;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iskat{
+    color: white;
+    font-size: 16px;
+}
+
+.example{
+    width: 320px;
+    height: 27px;
+    margin-top: 29px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #BCBCBC;
+    font-size: 14px;
+}
+
+.tags1{
+    margin-right: 10px;
+}
+
+.tags2{
+    border-style: solid;
+    margin-right: 10px;
+}
+
+.tags3{
+    border-style: solid;
+    margin-right: 10px;
+}
+
+.tags4{
+    border-style: solid;
+    margin-right: 10px;
+}
+
+.hero-image{
+    width: 544.11px;
+    height: 557.49px;
+    margin-right: 153.89;
+    margin-bottom: 56px;
+    display: flex;
+    flex-direction:row
+}
+
+.kategories{
+    width: 1440px;
+    height: 347px;
+    margin-top: 70px;
+    background-color: white;
+}
+
+.kat{
+    font-size: 24px;
+    margin-left: 147px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+.card{
+    width: 1146px;
+    height: 128px;
+    font-size: 16px;
+    margin-left: 147px;
+    margin-right: auto;
+    margin-bottom: 80px;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card1{
+    width: 166px;
+    height: 128px;
+    margin-right: 30px;
+    background-color:#BCBCBC ;
+    border-style: solid;
+    border-color: #BCBCBC;
+    border-radius: 5px;
+}
+
+.cardtext1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.card2{
+    width: 166px;
+    height: 128px;
+    margin-right: 30px;
+    background-color: #1A75E8;
+    border-style: solid;
+    border-color:#1A75E8;
+    border-radius: 5px;
+}
+
+.cardtext2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.card3{
+    width: 166px;
+    height: 128px;
+    margin-right: 30px;
+    background-color: #BCBCBC;
+    border-style: solid;
+    border-color: #BCBCBC;
+    border-radius: 5px;
+}
+.cardtext3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.card4{
+    width: 166px;
+    height: 128px;
+    margin-right: 30px;
+    background-color: #BCBCBC;
+    border-style: solid;
+    border-color: #BCBCBC;
+    border-radius: 5px;
+}
+
+.cardtext4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.card5{
+    width: 166px;
+    height: 128px;
+    margin-right: 30px;
+    background-color: #BCBCBC;
+    border-style: solid;
+    border-color: #BCBCBC;
+    border-radius: 5px;
+}
+
+.cardtext5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.card6{
+    width: 166px;
+    height: 128px;
+    margin-right: 30px;
+    background-color: #BCBCBC;
+    border-style: solid;
+    border-color: #BCBCBC;
+    border-radius: 5px;
+}
+
+.cardtext6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
